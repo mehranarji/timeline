@@ -1,0 +1,11 @@
+## Roadmap
+- Add featured posts
+- Add tag page
+- Support tags in posts
+- Support links in posts
+- Support images in posts
+- Ability to choose mood of the post
+- Display post create date
+- Add the ability to update a post
+- Fix the keyboard shortcut bug
+- Multiple children aren't displayed properly
