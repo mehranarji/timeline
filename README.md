@@ -1,11 +1,2 @@
-## Roadmap
-- Add featured posts
-- Add tag page
-- Support tags in posts
-- Support links in posts
-- Support images in posts
-- Ability to choose mood of the post
-- Display post create date
-- Add the ability to update a post
-- Fix the keyboard shortcut bug
-- Multiple children aren't displayed properly
+# Simple daily diarys application
+A daily diary application built using [React](https://react.dev/) and benefitting from [React Query](https://tanstack.com/query/v4/). Developed in both light and dark theme using [Tailwindcss](https://tailwindcss.com/). Supports hashtags to categorize notes. Uses typescript for type checking, easy to integrate and extend.
